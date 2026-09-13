@@ -92,11 +92,7 @@ def calcular_total_plataforma(matriz):
 
 
 def calcular_totales_por_genero(matriz, generos):
-    totales_genero = [0] * len(generos)
-    for fila in matriz:
-        for i in range(len(generos)):
-            totales_genero[i] += fila[i]
-    return totales_genero
+    return [sum(fila[i] for fila in matriz) for i in range(len(generos))]
 
 
 def calcular_total_usuario(matriz, posicion_usuario):
@@ -118,7 +114,8 @@ def obtener_ranking_generos_usuario(generos, matriz, posicion_usuario):
         lista_ranking.append((generos[i], vistas[i]))
     
     lista_ranking.sort(key=lambda item: item[1], reverse=True)
-    return lista_ranking
+    top_3 = lista_ranking[:3]
+    return top_3
 
 
 def verificar_insignias_experto(generos, umbrales_experto, matriz, posicion_usuario):
