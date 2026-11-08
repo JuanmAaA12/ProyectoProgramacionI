@@ -1,0 +1,26 @@
+{
+  "generos": [
+    "Comedia",
+    "Romcom",
+    "Terror",
+    "Suspenso",
+    "Ciencia ficcion"
+  ],
+  "umbral_experto": {
+    "Comedia": 8,
+    "Romcom": 8,
+    "Terror": 8,
+    "Suspenso": 8,
+    "Ciencia ficcion": 8
+  },
+  "alertas": {
+    "concentracion_max_pct": 70,
+    "concentracion_min_reproducciones": 5,
+    "genero_min_reproducciones": 2
+  },
+  "formatos": {
+    "usuario": "[A-Za-z0-9_]{3,15}",
+    "fecha": "\\d{4}-\\d{2}-\\d{2}",
+    "contrasena": "\\S{6,}"
+  }
+}
