@@ -1,0 +1,73 @@
+================================================================
+GESTOR DE CONTENIDOS - REPORTE
+Generado el 2026-11-04
+================================================================
+
+REPORTE GENERAL
+
+Total de reproducciones de la plataforma: 28
+
+Reproducciones por usuario:
+  - Robert: 10
+  - lucia_89: 12
+  - manuela: 6
+
+Ranking completo de géneros (de mayor a menor):
+  1. Comedia: 13 reproducciones
+  2. Terror: 9 reproducciones
+  3. Romcom: 4 reproducciones
+  4. Suspenso: 1 reproducción
+  5. Ciencia ficcion: 1 reproducción
+
+================================================================
+
+INSIGNIAS DE EXPERTO (por películas distintas; informativo)
+
+  - Robert: experto en Terror
+  - lucia_89: experto en Comedia
+  - manuela: sin insignias
+
+================================================================
+
+REPORTE DE ALERTAS
+
+Alertas detectadas: 5
+  - [CONCENTRACION] Robert concentra 80.0% de sus reproducciones en Terror (8 de 10; límite 70%).
+  - [CONCENTRACION] lucia_89 concentra 91.7% de sus reproducciones en Comedia (11 de 12; límite 70%).
+  - [GENERO_DEBIL] Suspenso tiene 1 reproducción en la plataforma (mínimo 2).
+  - [GENERO_DEBIL] Ciencia ficcion tiene 1 reproducción en la plataforma (mínimo 2).
+  - [CATALOGO_AGOTADO] lucia_89 ya vio las 10 películas de Comedia, su género favorito.
+
+================================================================
+
+RESUMEN DE ÚNICOS
+
+Películas distintas vistas: 23
+  - 10 cosas que odio de ti
+  - Actividad paranormal
+  - Annabelle
+  - Click
+  - El conjuro
+  - El exorcista
+  - El silencio de los inocentes
+  - Halloween
+  - Insidious
+  - Interestelar
+  - La monja
+  - La máscara
+  - Loco y estúpido amor
+  - Norbit
+  - Pesadilla en Elm Street
+  - Scary Movie
+  - Scream
+  - Son como niños
+  - Superbad
+  - Ted
+  - Una esposa de mentira
+  - Zoolander
+  - ¿Qué pasó ayer?
+
+Usuarios activos (con al menos una reproducción): 3
+  - Robert
+  - lucia_89
+  - manuela

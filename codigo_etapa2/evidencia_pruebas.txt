@@ -1,0 +1,32 @@
+EVIDENCIA DE EJECUCIÓN DE PRUEBAS UNITARIAS
+Comando: python -m unittest -v   (desde la carpeta proyecto_etapa2)
+Fecha: 2026-11-04
+Python: Python 3.14.4
+
+test_1_validacion_correcta_usuario_y_fecha (tests.test_operaciones.PruebasEtapa2.test_1_validacion_correcta_usuario_y_fecha) ... ok
+test_2_validacion_incorrecta_lanza_excepcion (tests.test_operaciones.PruebasEtapa2.test_2_validacion_incorrecta_lanza_excepcion) ... ok
+test_3_total_de_un_usuario (tests.test_operaciones.PruebasEtapa2.test_3_total_de_un_usuario) ... ok
+test_4_acumulacion_por_genero (tests.test_operaciones.PruebasEtapa2.test_4_acumulacion_por_genero) ... ok
+test_5_alerta_de_concentracion (tests.test_operaciones.PruebasEtapa2.test_5_alerta_de_concentracion) ... ok
+test_6_sumar_recursivo (tests.test_operaciones.PruebasEtapa2.test_6_sumar_recursivo) ... ok
+test_7_caso_limite_umbral_exacto_e_historial_vacio (tests.test_operaciones.PruebasEtapa2.test_7_caso_limite_umbral_exacto_e_historial_vacio) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.013s
+
+OK
+
+--- Ejecución con pytest ---
+Comando: python -m pytest   (desde la carpeta proyecto_etapa2)
+Fecha: 2026-11-04
+Python: Python 3.14.4
+
+========================================================================== test session starts ===========================================================================
+platform win32 -- Python 3.14.4, pytest-9.1.1, pluggy-1.7.0
+rootdir: C:\Users\denlu\Downloads\proyecto_etapa2\proyecto_etapa2
+plugins: anyio-4.13.0
+collected 7 items                                                                                                                                                         
+
+tests\test_operaciones.py .......                                                                                                                                   [100%]
+
+=========================================================================== 7 passed in 0.12s ============================================================================
